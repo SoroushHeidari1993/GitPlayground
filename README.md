@@ -1,1 +1,1 @@
-this is just a git playground a
+this is just a git playground for testing commands. 
